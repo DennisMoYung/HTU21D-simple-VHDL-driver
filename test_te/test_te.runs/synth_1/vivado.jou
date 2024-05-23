@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed May  8 14:57:35 2024
+# Process ID: 21668
+# Current directory: D:/Program/Xilinx/project/test_te/test_te.runs/synth_1
+# Command line: vivado.exe -log main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source main.tcl
+# Log file: D:/Program/Xilinx/project/test_te/test_te.runs/synth_1/main.vds
+# Journal file: D:/Program/Xilinx/project/test_te/test_te.runs/synth_1\vivado.jou
+# Running On: LAPTOP-56BI3MJJ, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 8459 MB
+#-----------------------------------------------------------
+source main.tcl -notrace
